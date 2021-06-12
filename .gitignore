@@ -125,5 +125,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# Ignore the config.js file.
+config.js
+
 # Pyre type checker
 .pyre/
